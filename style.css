@@ -7,7 +7,7 @@
 
 body{
   height: 100vh;
-  background-image: url(background.png);
+  background-image: url(Background.png);
   background-position: center;
   background-size: cover;
   display: flex;
